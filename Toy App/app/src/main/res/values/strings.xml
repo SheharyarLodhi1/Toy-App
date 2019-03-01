@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toys App</string>
+    <string name="search">Search</string>
+    <string name="error_message">Error</string>
+</resources>
